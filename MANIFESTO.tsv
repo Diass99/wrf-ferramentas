@@ -1,0 +1,5 @@
+destino	md5_origem	origem	relacao
+01_dados_entrada/baixar_gfs.sh	a5bc5bbadfbd7d355d434ad55aaf2b2e	Dissertacao/00_procedimentos_wrf/00_ambiente/baixar_gfs.sh	copia integral; substitui automatizacao_wrf/baixar_gfs.sh
+00_ambiente/instalar_dependencias_wrf.sh	069c661384dd4659efc419c1e2769861	Dissertacao/00_procedimentos_wrf/00_ambiente/WRF_runtime_libs_setup.sh	derivado (secao de instalacao)
+00_ambiente/instalar_dependencias_wrf.sh	ceb9fd5765ea1ba7eba131db8f04d9fb	01_ESTUDOS/06_MEUS_ARTIGOS_e_REVISOES/01_ARTIGOS/01_Artigo_TCC/libs_download_super.sh	derivado (secao de instalacao)
+00_ambiente/ambiente_wrf.sh	069c661384dd4659efc419c1e2769861	Dissertacao/00_procedimentos_wrf/00_ambiente/WRF_runtime_libs_setup.sh	derivado (secao de variaveis de ambiente)
